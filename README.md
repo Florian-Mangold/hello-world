@@ -2,4 +2,4 @@
 Blaaaa bla blub
 
 Hi all,
-thats my first github test. i hape everything will work fine. 
+thats my first github test. i hope everything will work fine. 
